@@ -706,6 +706,7 @@
           "ed921cc9-429d-455b-86d4-1b6382ef61e7"
         ],
         "settings": {
+          "style__selector": "none",
           "show_announcement": true,
           "small_announcement_text": false,
           "show_social": false,
@@ -888,7 +889,9 @@
           "show_shopify_footer": false,
           "show_debutify_footer": false,
           "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N - CVR: 37167053 <em>(NB: Intet salg på adressen)<\/em><\/p>",
-          "product_counter_text": "Vi sender din ordre om",
+          "style__selector": "none",
+          "product_counter_text": "Vi sender din ordre om:",
+          "date__selector": "none",
           "show_product_counter": true
         }
       },
